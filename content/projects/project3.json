@@ -1,0 +1,9 @@
+{
+  "priority": 3,
+  "title": "To Do App with User Auth",
+  "shortDescription": "This is a full-stack Todo application built with Next.js, TypeScript, and Tailwind CSS, utilizing Supabase for robust backend services, including a PostgreSQL database and authentication. It allows users to add, delete, and mark tasks as complete, with data persistently stored and managed in the cloud.",
+  "cover": "/img/ToDoApp.gif",
+  "livePreview": "https://todo-app-dusky-pi.vercel.app/",
+  "githubLink": "https://github.com/smenard215/todo-app-next",
+  "type": "Next.JS, TypeScript, Supabase"
+}

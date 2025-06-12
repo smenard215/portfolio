@@ -1,0 +1,9 @@
+{
+  "priority": 4,
+  "title": "Table Reservation App",
+  "shortDescription": "A restaurant booking system where users can make table reservations. The application features a responsive design and intuitive user interface, showcasing modern React development practices including component-based architecture, state management, and interactive user experiences. ",
+  "cover": "/img/TableReservationApp.png",
+  "livePreview": "https://sm-reservetable.netlify.app/",
+  "githubLink": "https://github.com/smenard215/sm-react-capstone",
+  "type": "React.JS, React Router"
+}

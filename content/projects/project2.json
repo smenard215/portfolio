@@ -1,0 +1,8 @@
+{
+  "priority": 2,
+  "title": "Tone Checker App",
+  "shortDescription": "A Django web application for sentiment analysis, determining the tone (positive, neutral, negative) of user-submitted text using the TextBlob library.",
+  "cover": "/img/ToneCheckerApp.png",
+  "githubLink": "https://github.com/smenard215/ToneCheckerApp",
+  "type": "Python, Django, TextBlob(NLP)"
+}

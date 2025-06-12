@@ -1,0 +1,9 @@
+{
+  "priority": 1,
+  "title": "Little Lemon API",
+  "shortDescription": "The LittleLemonAPI is the back-end API that allows customers to browse food items, view the item of the day and place orders. Managers are able to update the item of the day and monitor orders and assign deliveries. The delivery crew are able to check the orders assigned to them and update an order once it is delivered.",
+  "cover": "/img/LittleLemonAPICover.png",
+  "githubLink": "https://github.com/smenard215/LittleLemonAPI",
+  "type": "Python, Django REST Framework, User Auth",
+  "siteAge": "New 🔥"
+}
