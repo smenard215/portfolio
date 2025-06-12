@@ -2,10 +2,8 @@
 import {
   JavaScriptIcon,
   NextjsIcon,
-  NodejsIcon,
   ReactIcon,
   TailwindCSS,
-  TypescriptIcon,
   PythonIcon,
   PostgreSQLIcon,
   DjangoIcon,

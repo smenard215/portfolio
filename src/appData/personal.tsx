@@ -1,4 +1,4 @@
-import { Codepen, Facebook, GithubIcon, Instagram, LinkedIn, X } from '@/utils/icons'
+import { Facebook, GithubIcon, LinkedIn} from '@/utils/icons'
 
 export const socials = [
   { href: 'https://github.com/smenard215', icon: <GithubIcon /> },
